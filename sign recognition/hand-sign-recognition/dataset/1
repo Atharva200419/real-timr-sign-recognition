@@ -1,0 +1,11 @@
+dataset/
+├── A/
+│   ├── img1.jpg
+│   ├── img2.jpg
+│   └── ...
+├── B/
+│   ├── img1.jpg
+│   └── ...
+├── ...
+├── Z/
+│   └── imgX.jpg
